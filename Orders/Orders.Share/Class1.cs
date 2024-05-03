@@ -1,4 +1,4 @@
-﻿namespace Orders.Share
+﻿namespace Orders.Shared
 {
     public class Class1
     {
